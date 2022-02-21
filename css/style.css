@@ -1,6 +1,6 @@
 @import "./global/global.css";
 @import "./utilidades/cores.css";
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Roboto:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,900&family=Poppins:wght@400;600&family=Roboto:wght@400;500&display=swap');
 
 @import "./global/header.css";
 
@@ -11,9 +11,13 @@
 @import "./home/introducao.css";
 @import "./home/tecnologia.css";
 @import "./home/parceiros.css";
+@import "./home/depoimento.css";
 
 /* utilidades */
 @import "./utilidades/componentes.css";
 
 /* bicicletas */
 @import "./bicicletas/bicicletas-lista.css";
+
+/* seguros*/
+@import "./seguros/seguros.css";
