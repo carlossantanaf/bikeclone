@@ -7,6 +7,10 @@
     margin-right: auto;
 }
 
+.titulo {
+    background: url("../../img/dec/top-right.svg") no-repeat top right 20px;
+}
+
 .botao {
     padding: 16px 32px;
     display: inline-block;
